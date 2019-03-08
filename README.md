@@ -17,4 +17,4 @@
 и Вы получите 
 "https://nbviewer.jupyter.org/github/capissimo/Machine-Learning-with-Python-Cookbook/blob/master/simulated_test_datasets.ipynb"
 
-Если вид некоторых отображаемых там блокнотоввнешне отличается от того, что появляется в Github, то добавьте "?flush_cache=true" в конец URL-адреса онлайнового nbviewer для вызова повторной визуализации.
+Если вид некоторых отображаемых там блокнотов внешне отличается от того, который появляется в Github, то добавьте "?flush_cache=true" в конец URL-адреса онлайнового nbviewer для вызова повторной визуализации.
