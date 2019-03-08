@@ -1,19 +1,20 @@
 # Machine-Learning-with-Python-Cookbook
 
-## Code samples from Chris Albon's Machine Learning with Python Cookbook
+## Примеры из книги Криса Элбона "Машинное обучение с использованием Python. Книга рецептов" 
+### (Machine Learning with Python Cookbook, Chris Albon)
 
-This is a rebrushed and localized version of the source codes from the book mentioned above
+Исходный код был слегка скорректирован и локализован.
 
-### A Workaround if Jupyter notebooks are not rendered
+### Обходное решение, если блокноты Jupyter не отображаются на экране
 
-If you get a message "Sorry, something went wrong. Reload?" when viewing *.ipynb files,
-try to open that notebook that you want using nbviewer online, you don't need to install it.
+Если во время просмотра файлов *.ipynb Вы получаете сообщение "Sorry, something went wrong. Reload?",
+то попробуйте открыть блокнот, который Вам нужен, используя nbviewer онлайн. 
 
-Open "https://nbviewer.jupyter.org/"
+Откройте "https://nbviewer.jupyter.org/"
 
-Paste the link to your notebook, 
-(e.g. "https://github.com/capissimo/Machine-Learning-with-Python-Cookbook/blob/master/simulated_test_datasets.ipynb") there 
-and then you get 
+Вставьте там ссылку на блокнот, 
+(например, "https://github.com/capissimo/Machine-Learning-with-Python-Cookbook/blob/master/simulated_test_datasets.ipynb")  
+и Вы получите 
 "https://nbviewer.jupyter.org/github/capissimo/Machine-Learning-with-Python-Cookbook/blob/master/simulated_test_datasets.ipynb"
 
-If some notebook rendered in nbviewer appears different from rendered in github, then append "?flush_cache=true" to the end of the nbviewer version url to force it to rerender.
+Если вид некоторых отображаемых там блокнотоввнешне отличается от того, что появляется в Github, то добавьте "?flush_cache=true" в конец URL-адреса онлайнового nbviewer для вызова повторной визуализации.
