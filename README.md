@@ -1,5 +1,10 @@
 # Machine-Learning-with-Python-Cookbook
-Rebrushed code samples from Chris Albon's Machine Learning with Python Cookbook
+
+## Code samples from Chris Albon's Machine Learning with Python Cookbook
+
+This is a rebrushed and localized version of the source codes from the book mentioned above
+
+### A Workaround if Jupyter notebooks are not rendered
 
 If you get a message "Sorry, something went wrong. Reload?" when viewing *.ipynb files,
 try to open that notebook that you want using nbviewer online, you don't need to install it.
